@@ -14,7 +14,7 @@ int main() {
     int arr0[2][3] = {1,2,3,4,5,6};
     int arr1[2][3] = {{1,2,3},{4,5,6}};
     int arr2[2][3] = {{1,2,3},{4}};
-    int arr3[2][3] = {{1,2},{4,5}};
+    int arr3[2][3] = {{1,2},{4}};
 
     print_array(arr0);
     print_array(arr1);
